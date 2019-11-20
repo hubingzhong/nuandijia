@@ -10,5 +10,5 @@ $photo_fontsize = '20';
 $photo_fontcolor = '0,0,0';
 $photo_marktrans = '100';
 $photo_diaphaneity = '100';
-$photo_markimg = 'mark.png';
+$photo_markimg = 'mark.gif';
 ?>
