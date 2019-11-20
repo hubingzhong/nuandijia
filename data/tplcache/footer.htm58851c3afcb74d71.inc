@@ -1,0 +1,9 @@
+<?php
+$z[0]=Array("channelartlist","\r\n                    <div class=\"col-5-1\">\r\n                      <div id=\"a1portalSkin_ctr8035780357_Column5C20A20A20A20A20_QHDCPM80357M1\" class=\"qhd_column_contain\"><!-- Start_Module_80358 --><a name=\"31171\" id=\"31171\"></a>\r\n                        <div class=\"module-default\">\r\n                          <div class=\"module-inner\">\r\n                            <div class=\"module-title module-title-default clearfix\">\r\n                              <div class=\"module-title-content clearfix\">\r\n                                <h3 style=\"\" class=\"\">{dede:field name='typename'/}</h3>\r\n                              </div>\r\n                            </div>\r\n                            <div id=\"a1portalSkin_ctr8035780357_Column5C20A20A20A20A20_ctr8035880358_mainArea\" class=\"module-content\"><!-- Start_Module_80358 --><!-- S link-line -->\r\n                              <div class=\"link link-block\">\r\n                                <ul>\r\n                                {dede:channel type='son' noself='yes' }\r\n                                  <li><a href=\"[field:typelink/]\" target=\"\"><span>[field:typename/]</span></a></li>\r\n                                  {/dede:channel}\r\n                                 \r\n                                </ul>\r\n                              </div>\r\n                              <!-- E link-line --><!-- End_Module_80358 --></div>\r\n                          </div>\r\n                        </div>\r\n                      </div>\r\n                    </div>\r\n                    ",546,2134);
+$z[0][4]['typeid']="2,7,12,15,0";
+$z[1]=Array("global","",4482,4508);
+$z[1][4]['name']="cfg_powerby";
+$z[2]=Array("global","",4532,4556);
+$z[2][4]['name']="cfg_beian";
+
+?>

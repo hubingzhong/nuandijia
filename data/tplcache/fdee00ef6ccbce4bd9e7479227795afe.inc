@@ -1,0 +1,1 @@
+<li class="{dede:field.currentstyle/}" data-hide="true"><a class="first-level" href="{dede:field name='typeurl'/}" target=""><strong>{dede:field name='typename'/}</strong></a><i></i></li>

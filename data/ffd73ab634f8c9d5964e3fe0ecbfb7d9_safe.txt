@@ -1,0 +1,14 @@
+127.0.0.1||/index.php?upcache=1||SELECT id,typename,typedir,description,isdefault,ispart,defaultname,namerule2,moresite,siteurl,sitepath 
+                          FROM `dede_arctype` WHERE id='9'' LIMIT 0,1;||unusual character
+127.0.0.1||/index.php?upcache=1||SELECT id,typename,typedir,description,isdefault,ispart,defaultname,namerule2,moresite,siteurl,sitepath 
+                          FROM `dede_arctype` WHERE id='9'' LIMIT 0,1;||unusual character
+127.0.0.1||/||SELECT id,typename,typedir,description,isdefault,ispart,defaultname,namerule2,moresite,siteurl,sitepath 
+                          FROM `dede_arctype` WHERE id='9'' LIMIT 0,1;||unusual character
+127.0.0.1||/||SELECT id,typename,typedir,description,isdefault,ispart,defaultname,namerule2,moresite,siteurl,sitepath 
+                          FROM `dede_arctype` WHERE id='9'' LIMIT 0,1;||unusual character
+127.0.0.1||/index.php?upcache=1||SELECT id,typename,typedir,description,isdefault,ispart,defaultname,namerule2,moresite,siteurl,sitepath 
+                          FROM `dede_arctype` WHERE id='9'' LIMIT 0,1;||unusual character
+127.0.0.1||/||SELECT id,typename,typedir,description,isdefault,ispart,defaultname,namerule2,moresite,siteurl,sitepath 
+                          FROM `dede_arctype` WHERE id='9'' LIMIT 0,1;||unusual character
+127.0.0.1||/index.php?upcache=1||SELECT id,typename,typedir,description,isdefault,ispart,defaultname,namerule2,moresite,siteurl,sitepath 
+                          FROM `dede_arctype` WHERE id='9'' LIMIT 0,1;||unusual character

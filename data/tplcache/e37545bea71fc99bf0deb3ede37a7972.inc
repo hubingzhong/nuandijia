@@ -1,0 +1,1 @@
+<li><a class="article-title" href="[field:arcurl/]" target="_blank">[field:title/]</a><strong class="article-time">[field:pubdate function="MyDate('m-d',@me)"/]</strong></li>

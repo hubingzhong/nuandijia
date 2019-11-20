@@ -1,0 +1,1 @@
+<div class="module-more-default float-right"><a href="[field:typeurl /]" target="_blank">MORE</a></div>
